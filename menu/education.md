@@ -4,15 +4,15 @@ title: Education
 ---
 
 
-__PhD in Marketing__ (summa cum laude) <br>
-10/2016 – 06/2019 <br>
-Humboldt University of Berlin, School of Business and Economics <br>
-Thesis: [One-to-One Marketing in Grocery Retailing](https://edoc.hu-berlin.de/handle/18452/20877)
+__Ph.D. in Marketing__ <br>
+2014 – 2019 <br>
+Massachusetts Institute of Technology, Cambridge, MA  <br>
+Thesis: [Machine Learning Methods for Targeting and New Product Development](https://dspace.mit.edu/handle/1721.1/123572)
 
-__Master's degree in Economics__ <br>
-10/2006 – 03/2012 <br>
-RWTH Aachen University, Chalmers University Gothenburg (2007)
+__M.A. in Economics__ <br>
+2012 – 2014  <br>
+New Economic School, Moscow, Russia
 
-__Master's degree in Physics__ <br>
-10/2004 – 03/2010 <br>
-RWTH Aachen University, Chalmers University Gothenburg (2007)
+__Diploma in Applied Mathematics and Computer Science__ <br>
+2008 – 2013 <br>
+Lomonosov Moscow State University, Moscow, Russia
