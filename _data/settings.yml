@@ -1,0 +1,26 @@
+disqus:
+  comments: false
+  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+
+google-ID: ''
+
+menu:
+- {name: 'About', path: '.', url: 'index.html'}
+- {name: 'Research', path: 'menu', url: 'research.html'}
+- {name: 'Teaching', path: 'menu', url: 'teaching.html'}
+- {name: 'Industry', path: 'menu', url: 'industry.html'}
+- {name: 'Education', path: 'menu', url: 'education.html'}
+- {name: 'Honors', path: 'menu', url: 'honors.html'}
+
+social:
+- {icon: 'github', link: 'https://www.github.com/sbstn-gbl'}
+- {icon: 'orcid', link: 'https://orcid.org/0000-0003-3522-2263'}
+- {icon: 'envelope', link: 'mailto:gabel@rsm.nl'}
+- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=5fqoqisAAAAJ'}
+
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+sharing_button_prompt: 'Feel free to share!'
+related_posts: 'You may also enjoy:'
+post_date_prefix: 'Written on'
