@@ -4,12 +4,11 @@ layout: page
 
 <div style="clear: both;">
 
-  <div style="float: left;  padding: 10px 20px 10px 20px;">
-    <img src="/assets/img/portrait-2.jpeg" width="150">
+  <div style="float: left;  padding: 5px 15px 5px 15px;">
+    <img src="/assets/img/portrait-2.jpeg" width="180">
   </div>
 
-  <p>I am an <a href="{{ site.baseurl }}{% link menu/teaching.md %}">assistant
-  professor</a> at Kellogg School of Management, Northwestern University.</p>
+  <p>I am an Assistant Professor at <a href="https://www.kellogg.northwestern.edu">Kellogg School of Management</a>, Northwestern University.</p>
 
   <p>My <a href="{{ site.baseurl }}{% link menu/research.md %}">research</a> develops and applies quantitative methods to 
   improve marketing practice and product development. My research relies on field experiments 
