@@ -13,10 +13,10 @@ menu:
 - {name: 'Honors', path: 'menu', url: 'honors.html'}
 
 social:
-- {icon: 'github', link: 'https://www.github.com/sbstn-gbl'}
-- {icon: 'orcid', link: 'https://orcid.org/0000-0003-3522-2263'}
-- {icon: 'envelope', link: 'mailto:gabel@rsm.nl'}
-- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=5fqoqisAAAAJ'}
+- {icon: 'github', link: 'https://www.github.com/artem-timoshenko'}
+- {icon: 'orcid', link: 'https://orcid.org/0000-0002-5431-2136'}
+- {icon: 'envelope', link: 'mailto:artem.timoshenko@kellogg.northwestern.edu'}
+- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=ebyna6wAAAAJ'}
 
 pagination:
   next_page: 'Newer'
