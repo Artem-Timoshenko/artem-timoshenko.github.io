@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About me
 ---
 
 <div style="clear: both;">
