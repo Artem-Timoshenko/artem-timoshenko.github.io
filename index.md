@@ -12,7 +12,7 @@ title: About me
   <p>I am an <a href="{{ site.baseurl }}{% link menu/teaching.md %}">assistant
   professor</a> at Kellogg School of Management, Northwestern University.</p>
 
-  <p>My <a href="{{ site.baseurl }}{% link menu/research.md %}"> develops and applies quantitative methods to 
+  <p>My <a href="{{ site.baseurl }}{% link menu/research.md %}">research</a> develops and applies quantitative methods to 
   improve marketing practice and product development. My research relies on field experiments 
   and proof-of-concept studies with close industry collaborations. His recent work covers retail, 
   financial services, automotive, and technology industries with a focus on marketing strategy, 
