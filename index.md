@@ -4,8 +4,8 @@ layout: page
 
 <div style="clear: both;">
 
-  <div style="float: left;  padding: 5px 15px 5px 15px;">
-    <img src="/assets/img/portrait-2.jpeg" width="180">
+  <div style="float: left;  padding: 5px 15px 5px 5px;">
+    <img src="/assets/img/portrait-2.jpeg" width="150">
   </div>
 
   <p>I am an Assistant Professor at <a href="https://www.kellogg.northwestern.edu">Kellogg School of Management</a>, Northwestern University.</p>
