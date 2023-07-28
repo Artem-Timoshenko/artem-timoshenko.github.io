@@ -13,8 +13,8 @@ menu:
 - {name: 'Honors', path: 'menu', url: 'honors.html'}
 
 social:
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/artem-timoshenko-47867b1a/'}
 - {icon: 'envelope', link: 'mailto:artem.timoshenko@kellogg.northwestern.edu'}
-- {icon: 'github', link: 'https://www.github.com/artem-timoshenko'}
 - {icon: 'orcid', link: 'https://orcid.org/0000-0002-5431-2136'}
 - {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=ebyna6wAAAAJ'}
 
