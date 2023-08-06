@@ -3,13 +3,13 @@ layout: page
 title: Honors and Awards
 ---
 
-
-2022 Frank M. Bass Dissertation Paper Award, finalist<br>
-2023 EMAC–Sheth Foundation Sustainability Research Competition, honorable mention<br>
-ERIM Research Grant, 15,000 EUR (2022)<br>
-EHI Science Prize 2020, 1st place, category Best Dissertation, 10,000 EUR<br>
-Humboldt Prize 2020, finalist, category Best Dissertation<br>
-EMAC 2017, Best Paper Award, finalist, category Paper Based on a Doctoral Dissertation<br>
-Idea2Product 2009, European entrepreneurship competition, 1st place<br>
-Scholarship <em>Unitech International</em> (2007-2008)<br>
-Scholarship <em>Stiftung der Deutschen Wirtschaft</em> (2006-2010)<br>
+Frank M. Bass Dissertation Paper Award, Finalist, 2022<br>
+ISMS Early-Career Scholars Camp Fellow, 2022<br>
+James R. McManus Research Chair, Kellogg School of Management, 2020-2021<br>
+Robert D. Buzzell (MSI) Best Paper Award, Finalist, 2020<br>
+John D.C. Little Best Paper Award, Finalist, 2019<br>
+Marketing Science Institute (MSI) Research Priorities Award, 2019<br>
+AMA-Sheth Foundation Doctoral Consortium Fellow, 2018<br>
+MSI Alden G. Clayton Doctoral Dissertation Proposal Award, 2017 <br>
+ISMS Doctoral Consortium Fellow, 2017<br>
+ISMS Doctoral Dissertation Proposal Award, 2016<br>

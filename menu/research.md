@@ -3,34 +3,30 @@ layout: page
 title: Research
 ---
 
+My research spans two substantive areas: (1) new product development and (2) targeting and personalization. I develop methods to enhance marketing practice and advance the academic marketing field. My projects often involve field experiments and proof-of-concept studies with close industry collaborations.
 
-### Journals
+### Featured Publications
 
-Gabel S and Timoshenko A (2022). Product Choice with Large Assortments: A Scalable Deep-Learning Model. _Management Science_, 68(3):1808–1827. [[Journal]](https://doi.org/10.1287/mnsc.2021.3969)
+Alex Burnap, John R. Hauser, and __Artem Timoshenko__ (2023), “Product Aesthetic Design: A Machine Learning Augmentation,” Forthcoming at _Marketing Science_. [[Journal]](https://doi.org/10.1287/mksc.2022.1429) [[Press]](https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence-can-help-design-more-appealing-cars)
 
-&emsp;&emsp;&emsp;&emsp;2022 Frank M. Bass Dissertation Paper Award, finalist.
+Sebastian Gabel and __Artem Timoshenko__ (2022), “Product Choice with Large Assortments: A Scalable Deep-Learning Model,” _Management Science_, 68(3), 1591-2376.[[Journal]](https://doi.org/10.1287/mnsc.2021.3969)
 
-Gabel S and Guhl D (2022). Comparing the Effectiveness of Rewards and Individually Targeted Coupons in Loyalty Programs. _Journal of Retailing_, 98(3):395–411. [[Journal]](https://doi.org/10.1016/j.jretai.2021.08.001)
+Duncan Simester, __Artem Timoshenko__, and Spyros I. Zoumpoulis (2020), “Efficiently Evaluating Targeting Policies: Improving Upon Champion vs. Challenger Experiments,” Management Science, 66(8), 3412-3424. [[Journal]](https://doi.org/10.1287/mnsc.2019.3379)
 
-Gabel S, Guhl D, and Klapper D (2019). P2V-MAP: Mapping Market Structure for Large Assortments. _Journal of Marketing Research_, 56(4):557–580. [[Journal]](https://doi.org/10.1177%2F0022243719833631) [[GitHub]](https://github.com/sbstn-gbl/p2v-map)
+Duncan Simester, __Artem Timoshenko__, and Spyros I. Zoumpoulis (2020), “Targeting Prospective Customers: Robustness of Machine Learning Methods to Typical Data Challenges,” Management Science, 66(6), 2495–2522. [[Journal]](https://doi.org/10.1287/mnsc.2019.3308)
 
-&emsp;&emsp;&emsp;&emsp;2017 EMAC Best Paper Based on Doctoral Dissertation Award, finalist (working paper).
+__Artem Timoshenko__ and John R. Hauser (2019), “Identifying Customer Needs from User-Generated Content,” _Marketing Science_, 38(1), 1-20. [[Journal]](https://doi.org/10.1287/mksc.2018.1123) [[Press]](https://insight.kellogg.northwestern.edu/article/how-companies-can-mine-online-reviews-for-product-development-gold)
 
+<!-- &emsp;&emsp;&emsp;&emsp; 2017 EMAC Best Paper Based on Doctoral Dissertation Award, finalist (working paper). -->
 
-### Proceedings (excerpt)
-
-Schrage R, Kenning P, Guhl D, and Gabel S (2020). Price Personalization Technology in Retail Stores: Examining the Role of Users’ Trust. In _Proceedings of the 41st International Conference on Information Systems (ICIS)_. [[Journal]](https://aisel.aisnet.org/icis2020/implement_adopt/implement_adopt/7/)
-
-Gabel S and Klapper D (2017). Embedding Products in Latent Attribute Spaces: Implications for Managing Assortments in FMCG Retailing. In _Proceedings of the 46th EMAC Conference, Groningen_ (Finalist EMAC best paper award based on a doctoral dissertation).
-
+Glen Urban, __Artem Timoshenko__, Paramveer Dhillon, and John R. Hauser (2019), “Is Deep Learning a Game Changer for Marketing Analytics?” _MIT Sloan Management Review_, 61(2). [[Press]](https://sloanreview.mit.edu/article/is-deep-learning-a-game-changer-for-marketing-analytics/)
 
 ### Working papers
 
-Gabel S, Simester D, and Timoshenko A (2023). Retail Media Platforms: Learning Treatment Effects Across Brands. [Working paper]
+Duncan Simester, __Artem Timoshenko__, and Spyros Zoumpoulis (2023), “A Sample Size Calculation for Training and Certifying Targeting Policies,” Under Review (2nd round) at _Management Science_
 
-Gabel S and Ringel D (2023). Basket Representation Learning: The Swiss Army Knife of Market Basket Analysis. [Working paper]
+Sebastian Gabel, Duncan Simester, and __Artem Timoshenko__ (2023), “Retail Media Platforms: Learning Marketing Effectiveness Across Brands”
 
-Gabel S, Molitor D, and Spann M (2023). The Effect of an Ad Ban on Retailer Sales: Insights from a Natural Experiment. [Working paper]
+__Artem Timoshenko__, Marat Ibragimov, Duncan Simester, Jonathan Parker, and Antoinette Schoar (2020), “Transferring Information Between Marketing Campaigns to Improve Targeting Policies” 
 
-Gabel S and Guhl D (2022). Coupon Personalization in Retail Promotion Networks: Evidence from 809 Brand Campaigns. [Working paper]
 
