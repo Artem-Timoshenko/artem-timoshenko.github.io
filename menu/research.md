@@ -3,30 +3,38 @@ layout: page
 title: Research
 ---
 
-My research spans two substantive areas: (1) new product development and (2) targeting and personalization. I develop methods to enhance marketing practice and advance the academic marketing field. My projects often involve field experiments and proof-of-concept studies with close industry collaborations.
+My research focuses on performance-based marketing and new product development. I build on the methods from statistics, computer science, and operations research to propose solutions to important marketing problems. My projects aim for managerial relevance and academic rigor.
 
 ### Featured Publications
 
-Alex Burnap, John R. Hauser, and __Artem Timoshenko__ (2023), “Product Aesthetic Design: A Machine Learning Augmentation,” Forthcoming at _Marketing Science_. [[Journal]](https://doi.org/10.1287/mksc.2022.1429) [[Press]](https://mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence-can-help-design-more-appealing-cars)
+<a href="https://doi.org/10.1287/mksc.2022.1429"> __Product Aesthetic Design: A Machine Learning Augmentation__</a><br>
+_Marketing Science_ (2023) with Alex Burnap and John R. Hauser
 
-Sebastian Gabel and __Artem Timoshenko__ (2022), “Product Choice with Large Assortments: A Scalable Deep-Learning Model,” _Management Science_, 68(3), 1591-2376.[[Journal]](https://doi.org/10.1287/mnsc.2021.3969)
+<a href="https://doi.org/10.1287/mnsc.2021.3969"> __Product Choice with Large Assortments: A Scalable Deep-Learning Model__</a><br>
+_Management Science_ (2022) with Sebastian Gabel
 
-Duncan Simester, __Artem Timoshenko__, and Spyros I. Zoumpoulis (2020), “Efficiently Evaluating Targeting Policies: Improving Upon Champion vs. Challenger Experiments,” Management Science, 66(8), 3412-3424. [[Journal]](https://doi.org/10.1287/mnsc.2019.3379)
+<a href="https://doi.org/10.1287/mnsc.2019.3379"> __Efficiently Evaluating Targeting Policies: Improving on Champion vs. Challenger Experiments__</a><br>
+_Management Science_ (2020) with Duncan Simester and Spyros I. Zoumpoulis
 
-Duncan Simester, __Artem Timoshenko__, and Spyros I. Zoumpoulis (2020), “Targeting Prospective Customers: Robustness of Machine Learning Methods to Typical Data Challenges,” Management Science, 66(6), 2495–2522. [[Journal]](https://doi.org/10.1287/mnsc.2019.3308)
+<a href="https://doi.org/10.1287/mnsc.2019.3308"> __Targeting Prospective Customers: Robustness of Machine Learning Methods to Typical Data Challenges__</a><br>
+_Management Science_ (2020) with Duncan Simester and Spyros I. Zoumpoulis
 
-__Artem Timoshenko__ and John R. Hauser (2019), “Identifying Customer Needs from User-Generated Content,” _Marketing Science_, 38(1), 1-20. [[Journal]](https://doi.org/10.1287/mksc.2018.1123) [[Press]](https://insight.kellogg.northwestern.edu/article/how-companies-can-mine-online-reviews-for-product-development-gold)
+<a href="https://doi.org/10.1287/mksc.2018.1123"> __Identifying Customer Needs from User-Generated Content__</a><br>
+_Marketing Science_ (2019) with John R. Hauser
 
-<!-- &emsp;&emsp;&emsp;&emsp; 2017 EMAC Best Paper Based on Doctoral Dissertation Award, finalist (working paper). -->
-
-Glen Urban, __Artem Timoshenko__, Paramveer Dhillon, and John R. Hauser (2019), “Is Deep Learning a Game Changer for Marketing Analytics?” _MIT Sloan Management Review_, 61(2). [[Press]](https://sloanreview.mit.edu/article/is-deep-learning-a-game-changer-for-marketing-analytics/)
+<a href="https://sloanreview.mit.edu/article/is-deep-learning-a-game-changer-for-marketing-analytics/"> __Is Deep Learning a Game Changer for Marketing Analytics?__</a><br>
+_MIT Sloan Management Review_ (2019) with Glen Urban, Paramveer Dhillon, and John R. Hauser
 
 ### Working papers
 
-Duncan Simester, __Artem Timoshenko__, and Spyros Zoumpoulis (2023), “A Sample Size Calculation for Training and Certifying Targeting Policies,” Under Review (2nd round) at _Management Science_
+__A Sample Size Calculation for Training and Certifying Targeting Policies__ <br>
+with Duncan Simester and Spyros I. Zoumpoulis
 
-Sebastian Gabel, Duncan Simester, and __Artem Timoshenko__ (2023), “Retail Media Platforms: Learning Marketing Effectiveness Across Brands”
 
-__Artem Timoshenko__, Marat Ibragimov, Duncan Simester, Jonathan Parker, and Antoinette Schoar (2020), “Transferring Information Between Marketing Campaigns to Improve Targeting Policies” 
+__Retail Media Platforms: Learning Marketing Effectiveness Across Brands__ <br>
+with Sebastian Gabel and Duncan Simester
+
+__Transferring Information Between Marketing Campaigns to Improve Targeting Policies__ <br>
+with Marat Ibragimov and Duncan Simester
 
 
