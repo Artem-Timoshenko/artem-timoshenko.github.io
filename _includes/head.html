@@ -1,13 +1,17 @@
 <head>
 
   <title>
-    {% if page.title == "Home" %}
-      {{ site.title }} | {{ site.description }}
+    {% if page.title == "About" %}
+      {{ site.title }} 
     {% else %}
-      {{ page.title }} | {{ site.title }}
+      {% if page.title == "Honors and Awards" %}
+        Honors | {{ site.title }} 
+      {% else %}
+        {{ page.title }} | {{ site.title }}
+      {% endif %}
     {% endif %}
   </title>
-
+  
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
 

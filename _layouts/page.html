@@ -3,7 +3,10 @@ layout: default
 ---
 
 <h2>
-  {{ page.title }}
+  {% if page.title != "About" %}
+      {{ page.title }}
+  {% endif %}
+    
 </h2>
 
   {{ content }}
