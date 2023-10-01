@@ -2,6 +2,7 @@
 layout: page
 title: Honors and Awards
 ---
+MSI Young Scholar Award, 2023
 
 Frank M. Bass Dissertation Paper Award, Finalist, 2022
 
