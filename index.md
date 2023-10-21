@@ -15,7 +15,7 @@ title: About
 
 <p>I am available for consulting on new product development, growth strategy, and performance-based marketing. Contact me via <a href="mailto:artem.timoshenko@kellogg.northwestern.edu">email</a> or find me on <a href="https://www.linkedin.com/in/artem-timoshenko-47867b1a/">LinkedIn</a>. </p>
 
-<p> For more about my background, check out my <a href="/assets/cv/Timoshenko CV August 2023.pdf">CV</a>.</p>
+<p> For more about my background, check out my <a href="/assets/cv/Timoshenko CV October 2023.pdf">CV</a>.</p>
 
 
 
