@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-My research focuses on performance-based marketing and new product development. I build on the methods from statistics, computer science, and operations research to propose solutions to important marketing problems. My projects aim for managerial relevance and academic rigor.
+My research focuses on performance-based marketing and new product development. I build on the methods from statistics, computer science, and operations research to propose solutions to important business problems. My projects aim for managerial relevance and academic rigor.
 
 ### Featured Publications
 
