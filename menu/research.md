@@ -7,6 +7,12 @@ My research focuses on performance-based marketing and new product development. 
 
 ### Featured Publications
 
+<a href="/assets/Sample size calculation for training and certifying targeting policies MAIN AND APPENDIX.pdf"> __A Sample Size Calculation for Training and Certifying Targeting Policies__</a><br>
+_Management Science_ (forthcoming) with Duncan Simester and Spyros I. Zoumpoulis
+
+<a href="https://hbr.org/2024/06/how-retailers-became-ad-platforms"> __How Retailers Became Ad Platforms__</a><br>
+_Harvard Business Review (online)_ (2024) with Sebastian Gabel and Duncan Simester
+
 <a href="https://doi.org/10.1287/mksc.2022.1429"> __Product Aesthetic Design: A Machine Learning Augmentation__</a><br>
 _Marketing Science_ (2023) with Alex Burnap and John R. Hauser
 
@@ -26,10 +32,6 @@ _Marketing Science_ (2019) with John R. Hauser
 _MIT Sloan Management Review_ (2019) with Glen Urban, Paramveer Dhillon, and John R. Hauser
 
 ### Working papers
-
-__A Sample Size Calculation for Training and Certifying Targeting Policies__ <br>
-with Duncan Simester and Spyros I. Zoumpoulis
-
 
 __Retail Media Platforms: Learning Marketing Effectiveness Across Brands__ <br>
 with Sebastian Gabel and Duncan Simester
