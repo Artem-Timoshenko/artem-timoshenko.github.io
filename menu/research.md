@@ -11,7 +11,7 @@ My research focuses on performance-based marketing and new product development. 
 _Management Science_ (forthcoming) with Duncan Simester and Spyros I. Zoumpoulis
 
 <a href="https://hbr.org/2024/06/how-retailers-became-ad-platforms"> __How Retailers Became Ad Platforms__</a><br>
-_Harvard Business Review (online)_ (2024) with Sebastian Gabel and Duncan Simester
+_Harvard Business Review_ (2024) with Sebastian Gabel and Duncan Simester
 
 <a href="https://doi.org/10.1287/mksc.2022.1429"> __Product Aesthetic Design: A Machine Learning Augmentation__</a><br>
 _Marketing Science_ (2023) with Alex Burnap and John R. Hauser
