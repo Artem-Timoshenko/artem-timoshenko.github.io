@@ -7,7 +7,7 @@ My research focuses on performance-based marketing and new product development. 
 
 ### Featured Publications
 
-<a href="/assets/Sample size calculation for training and certifying targeting policies MAIN AND APPENDIX.pdf"> __A Sample Size Calculation for Training and Certifying Targeting Policies__</a><br>
+<a href="/assets/papers/Sample size calculation for training and certifying targeting policies MAIN AND APPENDIX.pdf"> __A Sample Size Calculation for Training and Certifying Targeting Policies__</a><br>
 _Management Science_ (forthcoming) with Duncan Simester and Spyros I. Zoumpoulis
 
 <a href="https://hbr.org/2024/06/how-retailers-became-ad-platforms"> __How Retailers Became Ad Platforms__</a><br>
