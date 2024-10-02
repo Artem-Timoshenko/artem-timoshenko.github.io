@@ -2,6 +2,8 @@
 layout: page
 title: Honors and Awards
 ---
+Chairs' Core Teaching Award (Kellogg), 2024
+
 MSI Young Scholar Award, 2023
 
 Frank M. Bass Dissertation Paper Award, Finalist, 2022
