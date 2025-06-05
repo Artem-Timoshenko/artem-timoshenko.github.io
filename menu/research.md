@@ -7,7 +7,7 @@ My research focuses on performance-based marketing and new product development. 
 
 ### Featured Publications
 
-<a href="/assets/papers/Sample size calculation for training and certifying targeting policies MAIN AND APPENDIX.pdf"> __A Sample Size Calculation for Training and Certifying Targeting Policies__</a><br>
+<a href="https://doi.org/10.1287/mnsc.2022.02947"> __A Sample Size Calculation for Training and Certifying Targeting Policies__</a><br>
 _Management Science_ (forthcoming) with Duncan Simester and Spyros I. Zoumpoulis
 
 <a href="https://hbr.org/2024/06/how-retailers-became-ad-platforms"> __How Retailers Became Ad Platforms__</a><br>
@@ -33,7 +33,7 @@ _MIT Sloan Management Review_ (2019) with Glen Urban, Paramveer Dhillon, and Joh
 
 ### Working papers
 
-__Retail Media Platforms: Learning Marketing Effectiveness Across Brands__ <br>
+<a href="/assets/papers/InStore Coupons Feb 2025.pdf.pdf">__In-Store Coupons: A Large-Scale Field Experiment__ </a><br>
 with Sebastian Gabel and Duncan Simester
 
 __Transferring Information Between Marketing Campaigns to Improve Targeting Policies__ <br>
