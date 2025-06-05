@@ -33,10 +33,13 @@ _MIT Sloan Management Review_ (2019) with Glen Urban, Paramveer Dhillon, and Joh
 
 ### Working papers
 
-<a href="/assets/papers/InStore Coupons Feb 2025.pdf.pdf">__In-Store Coupons: A Large-Scale Field Experiment__ </a><br>
+<a href="/assets/papers/InStore Coupons Feb 2025.pdf">__In-Store Coupons: A Large-Scale Field Experiment__ </a><br>
 with Sebastian Gabel and Duncan Simester
 
-__Transferring Information Between Marketing Campaigns to Improve Targeting Policies__ <br>
+<a href="/assets/papers/GPT VOC Jan 2025 SSRN.pdf">__Can Large Language Models Extract Customer Needs as well as Professional Analysts?__ </a><br>
+with Sebastian Gabel and Duncan Simester
+
+<a href="/assets/papers/Transfer Learning for Targeting June 2025.pdf">__Transfer Learning for Targeted Marketing: A Bayesian Matrix Factorization Approach__ </a><br>
 with Marat Ibragimov and Duncan Simester
 
 
