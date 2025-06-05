@@ -31,7 +31,7 @@ _Marketing Science_ (2019) with John R. Hauser
 <a href="https://sloanreview.mit.edu/article/is-deep-learning-a-game-changer-for-marketing-analytics/"> __Is Deep Learning a Game Changer for Marketing Analytics?__</a><br>
 _MIT Sloan Management Review_ (2019) with Glen Urban, Paramveer Dhillon, and John R. Hauser
 
-### Working papers
+### Working Papers
 
 <a href="/assets/papers/InStore Coupons Feb 2025.pdf">__In-Store Coupons: A Large-Scale Field Experiment__ </a><br>
 with Sebastian Gabel and Duncan Simester
