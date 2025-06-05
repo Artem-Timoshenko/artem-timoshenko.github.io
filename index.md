@@ -15,7 +15,7 @@ title: About
 
 <p>I am available for consulting on performance-based marketing and business applications of AI. Contact me via <a href="mailto:artem.timoshenko@kellogg.northwestern.edu">email</a> or find me on <a href="https://www.linkedin.com/in/artem-timoshenko-47867b1a/">LinkedIn</a>. </p>
 
-<p> For more about my background, check out my <a href="/assets/cv/Timoshenko CV September 2024.pdf">CV</a>.</p>
+<p> For more about my background, check out my <a href="/assets/cv/Timoshenko CV June 2025.pdf">CV</a>.</p>
 
 
 
