@@ -6,7 +6,7 @@ title: Teaching
 
 <b>Marketing Management (MBA Core)</b>: 2020-2026
 
-This course offers a practical introduction to marketing, with an emphasis on strategic decisions about target markets and the value proposition. Using case studies and actionable frameworks, we discuss product-market fit, sustainable differentiation, and strategic partnerships, and then turn to execution through smart product, pricing, channel, advertising, and branding decisions.
+This course offers a practical introduction to marketing strategy and tactics. Using case studies and actionable frameworks, we discuss product-market fit, sustainable differentiation, and channel strategy, and then turn to execution through smart product, pricing, distribution, advertising, and branding decisions.
 
 <b>Topics in Quantitative Marketing (Ph.D.)</b>: 2020-2022
 
