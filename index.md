@@ -6,7 +6,7 @@ title: About
 <div style="clear: both;">
 
   <div style="float: left;  padding: 5px 15px 5px 5px;">
-    <img src="/assets/img/Timoshenko Photo.jpg" width="160">
+    <img src="/assets/img/Artem T Photo.jpeg" width="160">
   </div>
 
   <p>I am an Associate Professor at the <a href="https://www.kellogg.northwestern.edu">Kellogg School of Management</a> at Northwestern University.</p>
