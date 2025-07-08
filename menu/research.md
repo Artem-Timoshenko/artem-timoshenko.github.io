@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-My research focuses on performance-based marketing and new product development. I build on the methods from computer science and statistics, and closely collaborate with industry partners to identify relevant problems and conduct proof-of-concept studies. My recent projects develop uplift models for targeting and study applications of GenAI for innovation.
+My research focuses on performance-based marketing and new product development. I build on the methods from computer science and statistics, and closely collaborate with industry partners to identify relevant problems and conduct proof-of-concept studies. My recent projects study applications of GenAI for innovation and propose new methods for targeting and personalization.
 
 ### Published and Forthcoming Papers
 
