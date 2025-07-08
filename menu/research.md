@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-My research focuses on performance-based marketing and new product development. I build on the methods from computer science and statistics, and closely collaborate with industry partners to identify relevant problems and conduct proof-of-concept studies. My recent projects study applications of GenAI for innovation and propose new methods for targeting and personalization.
+I study how data, experimentation, and algorithms are transforming the way firms innovate, engage customers, and make strategic decisions. My research bridges marketing, product development, and applied machine learning. I work closely with industry partners to identify high-impact challenges, design proof-of-concept studies, and conduct large-scale field experiments that deliver actionable insights. Recent projects explore how generative AI is reshaping innovation pipelines and how smarter targeting and personalization can accelerate marketing effectiveness.
 
 ### Published and Forthcoming Papers
 
