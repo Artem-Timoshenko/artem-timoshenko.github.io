@@ -6,7 +6,9 @@ title: Teaching
 
 <b>Marketing Management (MBA Core)</b>: 2020-2026
 
-This course offers a practical introduction to marketing strategy and tactics. Using case studies and actionable frameworks, we discuss product-market fit, sustainable differentiation, and channel strategy, and then turn to execution through smart product, pricing, distribution, advertising, and branding decisions.
+This course provides a rigorous foundation in marketing from a general management perspective.  Students learn to develop marketing strategies grounded in customer insights, enabling long-term differentiation through clear targeting, compelling value propositions, and aligned tactical decisions. Through case discussions and practical frameworks, the course emphasizes marketing’s role in driving growth, shaping business strategy, and building enduring customer relationships.
+
+  Kellogg Chairs' Core Teaching Award, 2024
 
 <b>Topics in Quantitative Marketing (Ph.D.)</b>: 2020-2022
 
