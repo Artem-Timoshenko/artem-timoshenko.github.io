@@ -15,6 +15,6 @@ title: About
 
 <p>I am available for consulting on customer analytics and business applications of AI. Contact me via <a href="mailto:artem.timoshenko@kellogg.northwestern.edu">email</a> or find me on <a href="https://www.linkedin.com/in/artem-timoshenko-47867b1a/" target="_blank">LinkedIn</a>.</p>
   
-<p>I hold a Ph.D. in Management Science from MIT, an M.A. in Economics from New Economic School, and a Diploma in Applied Mathematics and Computer Science from Moscow State University. For more about my background, check out my <a href="/assets/cv/Timoshenko CV June 2025.pdf" target="_blank">CV</a>.</p>
+<p>For more about my background, check out my <a href="/assets/cv/Timoshenko CV June 2025.pdf" target="_blank">CV</a>.</p>
 
 </div>
