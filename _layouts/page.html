@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h2>
-  {% if page.title != "About" %}
+  {% unless page.title == "About" or page.title == "Research" or page.title == "Teaching" or page.title == "Honors" %}
       {{ page.title }}
   {% endif %}
     
