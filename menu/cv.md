@@ -3,4 +3,6 @@ layout: page
 title: CV
 ---
 
-<embed src="/assets/cv/Timoshenko CV June 2025.pdf" width="100%" height="850px" />
+<script type="text/javascript">
+    document.location = "/assets/cv/Timoshenko CV June 2025.pdf"
+</script>
