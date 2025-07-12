@@ -2,17 +2,6 @@
 layout: page
 title: Research
 ---
-### Working Papers
-
-<a href="/assets/papers/GPT VOC Jan 2025 SSRN.pdf" style="text-decoration: none;">__Can Large Language Models Extract Customer Needs as well as Professional Analysts?__ </a><br>
-with Chengfeng Mao and John R. Hauser
-
-<a href="/assets/papers/Transfer Learning for Targeting June 2025.pdf" style="text-decoration: none;">__Transfer Learning for Targeted Marketing: A Bayesian Matrix Factorization Approach__ </a><br>
-with Marat Ibragimov and Duncan Simester
-
-<a href="/assets/papers/InStore Coupons Feb 2025.pdf" style="text-decoration: none;">__In-Store Coupons: A Large-Scale Field Experiment__ </a><br>
-with Sebastian Gabel and Duncan Simester
-
 ### Published Papers
 
 <a href="https://doi.org/10.1287/mnsc.2022.02947" style="text-decoration: none;"> __A Sample Size Calculation for Training and Certifying Targeting Policies__</a><br>
@@ -38,3 +27,14 @@ _Marketing Science_ (2019) with John R. Hauser
 
 <a href="https://sloanreview.mit.edu/article/is-deep-learning-a-game-changer-for-marketing-analytics/" style="text-decoration: none;"> __Is Deep Learning a Game Changer for Marketing Analytics?__</a><br>
 _MIT Sloan Management Review_ (2019) with Glen Urban, Paramveer Dhillon, and John R. Hauser
+
+### Working Papers
+
+<a href="/assets/papers/GPT VOC Jan 2025 SSRN.pdf" style="text-decoration: none;">__Can Large Language Models Extract Customer Needs as well as Professional Analysts?__ </a><br>
+with Chengfeng Mao and John R. Hauser
+
+<a href="/assets/papers/Transfer Learning for Targeting June 2025.pdf" style="text-decoration: none;">__Transfer Learning for Targeted Marketing: A Bayesian Matrix Factorization Approach__ </a><br>
+with Marat Ibragimov and Duncan Simester
+
+<a href="/assets/papers/InStore Coupons Feb 2025.pdf" style="text-decoration: none;">__In-Store Coupons: A Large-Scale Field Experiment__ </a><br>
+with Sebastian Gabel and Duncan Simester
