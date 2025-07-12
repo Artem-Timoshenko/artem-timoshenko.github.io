@@ -2,8 +2,16 @@
 layout: page
 title: Research
 ---
+### Working Papers
 
-My research examines how data, experimentation, and algorithms are transforming the way firms innovate, engage customers, and make strategic decisions. I work closely with industry partners to identify high-impact challenges, design proof-of-concept studies, and conduct large-scale field experiments that deliver actionable insights. Recent projects explore how generative AI is reshaping innovation pipelines and how smarter targeting and personalization can accelerate marketing effectiveness.
+<a href="/assets/papers/GPT VOC Jan 2025 SSRN.pdf">__Can Large Language Models Extract Customer Needs as well as Professional Analysts?__ </a><br>
+with Chengfeng Mao and John R. Hauser
+
+<a href="/assets/papers/Transfer Learning for Targeting June 2025.pdf">__Transfer Learning for Targeted Marketing: A Bayesian Matrix Factorization Approach__ </a><br>
+with Marat Ibragimov and Duncan Simester
+
+<a href="/assets/papers/InStore Coupons Feb 2025.pdf">__In-Store Coupons: A Large-Scale Field Experiment__ </a><br>
+with Sebastian Gabel and Duncan Simester
 
 ### Published and Forthcoming Papers
 
@@ -30,15 +38,3 @@ _Marketing Science_ (2019) with John R. Hauser
 
 <a href="https://sloanreview.mit.edu/article/is-deep-learning-a-game-changer-for-marketing-analytics/"> __Is Deep Learning a Game Changer for Marketing Analytics?__</a><br>
 _MIT Sloan Management Review_ (2019) with Glen Urban, Paramveer Dhillon, and John R. Hauser
-
-### Working Papers
-
-<a href="/assets/papers/GPT VOC Jan 2025 SSRN.pdf">__Can Large Language Models Extract Customer Needs as well as Professional Analysts?__ </a><br>
-with Chengfeng Mao and John R. Hauser
-
-<a href="/assets/papers/Transfer Learning for Targeting June 2025.pdf">__Transfer Learning for Targeted Marketing: A Bayesian Matrix Factorization Approach__ </a><br>
-with Marat Ibragimov and Duncan Simester
-
-<a href="/assets/papers/InStore Coupons Feb 2025.pdf">__In-Store Coupons: A Large-Scale Field Experiment__ </a><br>
-with Sebastian Gabel and Duncan Simester
-
