@@ -14,8 +14,9 @@ menu:
 social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/artem-timoshenko-47867b1a/'}
 - {icon: 'envelope', link: 'mailto:artem.timoshenko@kellogg.northwestern.edu'}
-- {icon: 'orcid', link: 'https://orcid.org/0000-0002-5431-2136'}
 - {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=ebyna6wAAAAJ'}
+
+cv_pdf: /assets/cv/Timoshenko CV June 2025.pdf
 
 pagination:
   next_page: 'Newer'

@@ -4,5 +4,5 @@ title: CV
 ---
 
 <script type="text/javascript">
-    document.location = "/assets/cv/Timoshenko CV June 2025.pdf"
+    document.location = "{{site.data.settings.cv_pdf}}"
 </script>

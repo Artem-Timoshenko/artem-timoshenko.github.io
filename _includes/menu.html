@@ -1,7 +1,13 @@
 <div class="menu">
   <nav class="menu-content">
     {% for item in site.data.settings.menu %}
-      <a href="{{ site.github.url }}/{{ item.path }}/{{ item.url }}">{{ item.name }}</a>
+      {% if page.url contains item.url%}
+        <a href="{{ site.github.url }}/{{ item.path }}/{{ item.url }}" style="text-decoration: underline; text-underline-offset: 5px;">{{ item.name }}</a>
+      {% elsif page.url == "/" and item.name == "About" %}
+        <a href="{{ site.github.url }}/{{ item.path }}/{{ item.url }}" style="text-decoration: underline; text-underline-offset: 5px;">{{ item.name }}</a>
+      {% else %}
+        <a href="{{ site.github.url }}/{{ item.path }}/{{ item.url }}">{{ item.name }}</a>
+      {% endif %}
     {% endfor %}
   </nav>
   <nav class="social-icons">

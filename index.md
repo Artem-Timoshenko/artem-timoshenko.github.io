@@ -13,8 +13,6 @@ title: About
 
   <p>Current projects explore how generative AI is reshaping new product development and how data-driven personalization can accelerate marketing effectiveness. I work closely with industry partners to identify high-impact challenges, propose new methodological solutions, and design proof-of-concept studies that deliver actionable insights. </p>
 
-<p>I am available for consulting on customer analytics and business applications of AI. Contact me via <a href="mailto:artem.timoshenko@kellogg.northwestern.edu">email</a> or find me on <a href="https://www.linkedin.com/in/artem-timoshenko-47867b1a/" target="_blank">LinkedIn</a>.</p>
-  
-<p>For more about my background, check out my <a href="/assets/cv/Timoshenko CV June 2025.pdf" target="_blank">CV</a>.</p>
+<p>I am available for consulting on customer analytics and business applications of AI. Contact me via <a href="mailto:artem.timoshenko@kellogg.northwestern.edu">email</a> or find me on <a href="https://www.linkedin.com/in/artem-timoshenko-47867b1a/" target="_blank">LinkedIn</a>. For more about my background, check out my <a href="{{site.data.settings.cv_pdf}}" target="_blank">CV</a>.</p>
 
 </div>
