@@ -9,9 +9,9 @@ title: About
     <img src="/assets/img/Artem T Photo.jpeg" width="160">
   </div>
 
-  <p>I am an Associate Professor at the <a href="https://www.kellogg.northwestern.edu" target="_blank">Kellogg School of Management</a> at Northwestern University. My research examines how data, experimentation, and algorithms are transforming the way firms innovate, engage customers, and make strategic decisions. </p>
+  <p>I am an Associate Professor at the <a href="https://www.kellogg.northwestern.edu" target="_blank">Kellogg School of Management</a> at Northwestern University. My research examines how data, experimentation, and algorithms are transforming innovation, customer engagement, and marketing strategies. </p>
 
-  <p>My recent projects explore how generative AI is reshaping innovation pipelines and how smarter personalization can accelerate marketing effectiveness. I work closely with industry partners to identify high-impact challenges, design proof-of-concept studies, and conduct large-scale field experiments that deliver actionable insights. </p>
+  <p>Current projects explore how generative AI is reshaping new product development and how data-driven personalization can accelerate marketing effectiveness. I work closely with industry partners to identify high-impact challenges, propose new methodological solutions, and design proof-of-concept studies that deliver actionable insights. </p>
 
 <p>I am available for consulting on customer analytics and business applications of AI. Contact me via <a href="mailto:artem.timoshenko@kellogg.northwestern.edu">email</a> or find me on <a href="https://www.linkedin.com/in/artem-timoshenko-47867b1a/" target="_blank">LinkedIn</a>.</p>
   
