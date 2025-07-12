@@ -9,6 +9,7 @@ menu:
 - {name: 'Research', path: 'menu', url: 'research.html'}
 - {name: 'Teaching', path: 'menu', url: 'teaching.html'}
 - {name: 'Honors', path: 'menu', url: 'honors.html'}
+- {name: 'CV', path: 'menu', url: 'CV.html'}
 
 social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/artem-timoshenko-47867b1a/'}
