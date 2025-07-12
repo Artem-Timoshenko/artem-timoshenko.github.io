@@ -13,7 +13,7 @@ with Marat Ibragimov and Duncan Simester
 <a href="/assets/papers/InStore Coupons Feb 2025.pdf" style="text-decoration: none;">__In-Store Coupons: A Large-Scale Field Experiment__ </a><br>
 with Sebastian Gabel and Duncan Simester
 
-### Published and Forthcoming Papers
+### Published Papers
 
 <a href="https://doi.org/10.1287/mnsc.2022.02947" style="text-decoration: none;"> __A Sample Size Calculation for Training and Certifying Targeting Policies__</a><br>
 _Management Science_ (forthcoming) with Duncan Simester and Spyros I. Zoumpoulis
