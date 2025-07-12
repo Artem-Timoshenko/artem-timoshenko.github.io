@@ -4,7 +4,7 @@ title: Research
 ---
 ### Working Papers
 
-<a href="/assets/papers/GPT VOC Jan 2025 SSRN.pdf">__Can Large Language Models Extract Customer Needs as well as Professional Analysts?__ </a><br>
+<a href="/assets/papers/GPT VOC Jan 2025 SSRN.pdf" style="text-decoration: none;">__Can Large Language Models Extract Customer Needs as well as Professional Analysts?__ </a><br>
 with Chengfeng Mao and John R. Hauser
 
 <a href="/assets/papers/Transfer Learning for Targeting June 2025.pdf">__Transfer Learning for Targeted Marketing: A Bayesian Matrix Factorization Approach__ </a><br>
