@@ -38,3 +38,6 @@ with Marat Ibragimov and Duncan Simester
 
 <a href="/assets/papers/InStore Coupons Feb 2025.pdf" style="text-decoration: none;">__In-Store Coupons: A Large-Scale Field Experiment__ </a><br>
 with Sebastian Gabel and Duncan Simester
+
+<a href="/assets/papers/AI Intermediation for Logos July 2025.pdf" style="text-decoration: none;">__Guided Creativity: AI Intermediation for Visual Design__ </a><br>
+with Xuekang Wu and Guy Aridor
