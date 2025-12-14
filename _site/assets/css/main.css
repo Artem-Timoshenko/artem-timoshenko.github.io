@@ -246,12 +246,6 @@ hr {
   padding-right: 10px;
 }
 
-.active {
-    background-color: #f1d74c; /* Example background color */
-    color: #ffffff; /* Example text color */
-    border-bottom: 1px solid white; /* Example border */
-}
-
 .social-icons {
   float: right;
 }

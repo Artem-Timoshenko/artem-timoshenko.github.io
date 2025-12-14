@@ -41,3 +41,6 @@ with Sebastian Gabel and Duncan Simester
 
 <a href="/assets/papers/AI Intermediation for Logos July 2025.pdf" style="text-decoration: none;">__Guided Creativity: AI Intermediation for Visual Design__ </a><br>
 with Xuekang Wu and Guy Aridor
+
+<a href="/assets/papers/Policy-Aligned CATEs Dec 2025.pdf" style="text-decoration: none;">__Policy-Aligned Estimation of Conditional Average Treatment Effects__ </a><br>
+with Caio Waisman
