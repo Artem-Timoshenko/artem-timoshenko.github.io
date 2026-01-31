@@ -30,7 +30,7 @@ _MIT Sloan Management Review_ (2019) with Glen Urban, Paramveer Dhillon, and Joh
 
 ### Working Papers
 
-<a href="/assets/papers/GPT VOC Jan 2025 SSRN.pdf" style="text-decoration: none;">__Can Large Language Models Extract Customer Needs as well as Professional Analysts?__ </a><br>
+<a href="/assets/papers/GPT VOC Jan 2026 SSRN.pdf" style="text-decoration: none;">__Transforming the Voice of the Customer: Large Language Models for Identifying Customer Needs__ </a><br>
 with Chengfeng Mao and John R. Hauser
 
 <a href="/assets/papers/Transfer Learning for Targeting June 2025.pdf" style="text-decoration: none;">__Transfer Learning for Targeted Marketing: A Bayesian Matrix Factorization Approach__ </a><br>
