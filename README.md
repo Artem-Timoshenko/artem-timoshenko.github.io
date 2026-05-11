@@ -104,9 +104,3 @@ If you ever need to tweak the look, every color and layout dimension is a CSS cu
 ```
 
 Single typeface: **Source Serif 4** from Google Fonts. Italic is load-bearing — used for eyebrows, role line, year/level labels, the email CTA, and the footer.
-
-## Known TODOs / things to verify
-
-- TL;DRs in `_data/papers.yml` are blank by default. The bundled prototype suggested AI-drafted summaries — feel free to fill them in (add a string to the `tldr:` field) or leave them empty (they're hidden when blank).
-- The portrait `assets/img/Artem T Photo.jpeg` is 2 MB. Worth resizing to ~1000px wide / ~200 KB at some point to speed up first paint, but not blocking.
-- Email is set to `artem.timoshenko@northwestern.edu` per the May 2026 CV (the previous site used the `@kellogg.northwestern.edu` form). Update in `_data/profile.yml` if needed.
