@@ -5,7 +5,7 @@ A single-page academic site built on the **Hardcover** design and hosted on **Gi
 ## Repository layout
 
 ```
-~/
+new_website/
 ├── _config.yml                 # Site metadata + plugins
 ├── Gemfile                     # Pinned to the github-pages gem
 ├── CNAME                       # Custom domain (artemtimoshenko.com)
