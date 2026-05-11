@@ -1,11 +1,11 @@
 # artemtimoshenko.com — Jekyll source
 
-A single-page academic site built on the **Hardcover** design (warm paper background, ink-black text, oxblood accent, all-serif). Hosted on **GitHub Pages**.
+A single-page academic site built on the **Hardcover** design and hosted on **GitHub Pages**.
 
 ## Repository layout
 
 ```
-new_website/
+~/
 ├── _config.yml                 # Site metadata + plugins
 ├── Gemfile                     # Pinned to the github-pages gem
 ├── CNAME                       # Custom domain (artemtimoshenko.com)
