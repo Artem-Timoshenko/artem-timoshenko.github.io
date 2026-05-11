@@ -1,0 +1,72 @@
+{%- assign me = site.data.profile.name -%}
+{%- assign papers = site.data.papers -%}
+
+<section id="research" class="section">
+  {% include section-title.html title="Research" %}
+  <p class="section-lede">
+    {{ site.data.profile.research_lede | default: "Newer work appears first. Working papers and forthcoming articles share the same list as published research." }}
+  </p>
+
+  <ol class="paper-list" id="paper-list">
+    {%- for p in papers -%}
+      <li class="paper">
+        <div class="paper-year">{{ p.year }}</div>
+        {%- comment -%}
+          Title links to the first available source in priority order:
+          journal -> ssrn -> pdf. Falls back to plain text if none exist.
+        {%- endcomment -%}
+        {%- assign title_url = "" -%}
+        {%- if p.links.journal and p.links.journal != "" -%}
+          {%- assign title_url = p.links.journal -%}
+        {%- elsif p.links.doi and p.links.doi != "" -%}
+          {%- assign title_url = p.links.doi -%}
+        {%- elsif p.links.ssrn and p.links.ssrn != "" -%}
+          {%- assign title_url = p.links.ssrn -%}
+        {%- elsif p.links.pdf and p.links.pdf != "" -%}
+          {%- assign title_url = p.links.pdf | relative_url -%}
+        {%- endif -%}
+        <div class="paper-title">
+          {% if title_url != "" %}
+            <a href="{{ title_url }}" target="_blank" rel="noopener">{{ p.title }}</a>
+          {% else %}
+            {{ p.title }}
+          {% endif %}
+        </div>
+        <div class="paper-meta">
+          {%- for a in p.authors -%}
+            {%- if a == me -%}<em>{{ a }}</em>{%- else -%}{{ a }}{%- endif -%}
+            {%- unless forloop.last %}, {% endunless -%}
+          {%- endfor -%}
+          {% if p.venue and p.venue != "" %}
+            <span class="dot"> · </span>
+            <span class="paper-venue">{{ p.venue }}</span>
+          {% endif %}
+          {% if p.status == "fc" %}
+            <span class="dot"> · </span>
+            <span class="status status--fc">forthcoming</span>
+          {% endif %}
+        </div>
+        <div class="paper-links">
+          {%- comment -%}
+            Title click handles journal / pdf, so we only show alternate sources
+            here: ssrn (preprint) and bib (citation file).
+          {%- endcomment -%}
+          {%- assign first = true -%}
+          {% if p.links.ssrn and p.links.ssrn != "" %}
+            {%- unless first %}<span class="paper-links-sep">·</span>{% endunless -%}
+            <a href="{{ p.links.ssrn }}" target="_blank" rel="noopener">ssrn</a>
+            {%- assign first = false -%}
+          {% endif %}
+          {% if p.links.bib and p.links.bib != "" %}
+            {%- unless first %}<span class="paper-links-sep">·</span>{% endunless -%}
+            <a href="{{ p.links.bib | relative_url }}" target="_blank" rel="noopener">bib</a>
+            {%- assign first = false -%}
+          {% endif %}
+        </div>
+        {% if p.tldr and p.tldr != "" %}
+          <div class="paper-tldr">{{ p.tldr }}</div>
+        {% endif %}
+      </li>
+    {%- endfor -%}
+  </ol>
+</section>

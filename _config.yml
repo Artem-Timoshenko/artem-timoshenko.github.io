@@ -1,28 +1,30 @@
 # Site Build Settings
 
-# Jekyll-paginate-v2 configuration
-#  pagination:
-#   enabled: true
-#   per_page: 5
-#   permalink: '/page/:num/'
-#   title: ':title - page :num of :max'
-#   limit: 0
-#   sort_field: 'date'
-#   sort_reverse: true
-
-# jekyll-paginate configuration
-#paginate:            5
-
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+plugins:             [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Artem Timoshenko'
-description:	       ''
+title:               'Artem Timoshenko'
+description:         'Associate Professor of Marketing, Kellogg School of Management, Northwestern University. Research on generative AI, customer analytics, and targeted marketing.'
 author:              'Artem Timoshenko'
 
-url: https://www.artemtimoshenko.com
-baseurl: ""
+url:                 'https://www.artemtimoshenko.com'
+baseurl:             ''
+
+# Files Jekyll should ignore when building
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - README.md
+  - .jekyll-cache
+  - assets/img/Artem T Photo.original.jpeg
+  # Orphaned old PDFs — superseded by newer versions, kept on disk in case but not published
+  - assets/papers/InStore Coupons Feb 2025.pdf
+  - assets/papers/In Store Coupons SSRN.pdf
+  - assets/papers/Transfer Learning for Targeting June 2025.pdf
+  - assets/papers/AI Intermediation for Logos July 2025.pdf
+  - assets/cv/Timoshenko CV June 2025.pdf

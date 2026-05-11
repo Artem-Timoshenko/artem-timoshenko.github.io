@@ -1,0 +1,20 @@
+{%- assign p = site.data.profile -%}
+<section id="about" class="section hero">
+  <div class="hero-text">
+    <h1 class="hero-name">{{ p.name }}</h1>
+    <div class="hero-role">
+      {{ p.role }}<br />
+      {{ p.org }}, {{ p.org2 }}
+    </div>
+    <p class="hero-pitch">{{ p.pitch }}</p>
+    <div class="hero-links">
+      <a href="mailto:{{ p.email }}">Email</a>
+      <a href="{{ p.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="{{ p.scholar }}" target="_blank" rel="noopener">Google Scholar</a>
+      <a href="{{ p.cv | relative_url }}" target="_blank" rel="noopener">CV (pdf)</a>
+    </div>
+  </div>
+  <div class="hero-portrait">
+    <img src="{{ p.photo | relative_url }}" alt="Portrait of {{ p.name }}" />
+  </div>
+</section>

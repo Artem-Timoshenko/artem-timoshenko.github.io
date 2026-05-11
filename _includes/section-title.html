@@ -1,0 +1,10 @@
+{%- comment -%}
+  Reusable section title.
+  Pass: title (required), kicker (optional, italic lowercase eyebrow above the title)
+{%- endcomment -%}
+<div class="section-title">
+  {% if include.kicker and include.kicker != "" %}
+    <div class="kicker">— {{ include.kicker }}</div>
+  {% endif %}
+  <h2>{{ include.title }}</h2>
+</div>

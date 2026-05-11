@@ -1,0 +1,30 @@
+<section class="section teaching-honors">
+  <div id="teaching" class="th-col">
+    {% include section-title.html title="Teaching" %}
+    {% for t in site.data.teaching %}
+      <div class="teaching-item">
+        <div class="teaching-item-title">{{ t.title }}</div>
+        <div class="teaching-item-meta">
+          {%- if t.level and t.level != "" -%}{{ t.level }}{%- endif -%}
+          {%- if t.level and t.level != "" and t.years and t.years != "" %} · {% endif -%}
+          {%- if t.years and t.years != "" -%}<em>{{ t.years }}</em>{%- endif -%}
+        </div>
+        <div class="teaching-item-desc">{{ t.desc }}</div>
+        {% if t.award and t.award != "" %}
+          <div class="teaching-item-award">{{ t.award }}</div>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+
+  <div id="honors" class="th-col">
+    {% include section-title.html title="Honors" %}
+    {%- assign top_honors = site.data.honors | slice: 0, 6 -%}
+    {% for h in top_honors %}
+      <div class="honor-item">
+        <div class="honor-year">{{ h.year }}</div>
+        <div class="honor-text">{{ h.text }}</div>
+      </div>
+    {% endfor %}
+  </div>
+</section>

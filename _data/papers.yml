@@ -1,0 +1,263 @@
+# Newest first. status: 'wp' (working paper) | 'fc' (forthcoming) | 'pub' (published)
+# tldr is optional — leave blank or fill in. ALL TL;DRs BELOW ARE DRAFTS — please review.
+# Author names matching profile.name render in italic automatically.
+# Each entry can have any combination of these link fields (all optional):
+#   pdf:     local PDF (e.g., /assets/papers/foo.pdf)
+#   journal: link to the published version (DOI or article URL)
+#   ssrn:    SSRN preprint URL
+#   bib:     local .bib file (e.g., /assets/bib/foo.bib)
+# Renders in this order: pdf · journal · ssrn · bib
+
+# === Working papers / under review ===
+
+- year: 2026
+  status: wp
+  title: "Transforming the Voice of the Customer: Large Language Models for Identifying Customer Needs"
+  authors:
+    - "Artem Timoshenko"
+    - "Chengfeng Mao"
+    - "John R. Hauser"
+  venue: "Under review"
+  tldr: >-
+    With supervised fine-tuning, LLMs can extract customer needs from
+    open-ended feedback on par with professional analysts — bringing
+    voice-of-the-customer research within reach of smaller teams.
+  links:
+    pdf: "/assets/papers/GPT VOC Jan 2026 SSRN.pdf"
+    ssrn: ""
+
+- year: 2026
+  status: wp
+  title: "Policy-Aligned Estimation of Conditional Average Treatment Effects"
+  authors:
+    - "Artem Timoshenko"
+    - "Caio Waisman"
+  venue: "Under review"
+  tldr: >-
+    A new framework for estimating CATEs by focusing on the downstream
+    targeting decisions rather than statistical fit alone. We show that
+    standard "plug-in optimization" and "direct policy learning" are not
+    competing paradigms, but limiting cases of the same optimization problem.
+  links:
+    pdf: "/assets/papers/Policy-Aligned CATEs Dec 2025.pdf"
+    ssrn: ""
+
+- year: 2026
+  status: wp
+  title: "Guided Creativity: AI Intermediation for Enhancing Originality and Quality in Visual Design"
+  authors:
+    - "Xuekang Wu"
+    - "Guy Aridor"
+    - "Artem Timoshenko"
+  venue: "Under review"
+  tldr: >-
+    AI image tools don't have to flatten design work. With the right workflow,
+    they can improve designer collaborations, lifting both the originality and
+    the quality of human-created visuals. We provide field evidence with
+    professional designers.
+  links:
+    pdf: "/assets/papers/AI Intermediation March 2026.pdf"
+    ssrn: ""
+
+- year: 2026
+  status: wp
+  title: "Improving Targeting Policies by Learning Across Marketing Campaigns"
+  authors:
+    - "Marat Ibragimov"
+    - "Duncan Simester"
+    - "Artem Timoshenko"
+  venue: "Under review"
+  tldr: >-
+    A Bayesian transfer-learning framework that lets firms reuse information
+    across marketing experiments to improve targeting policies, turning
+    experimental databases into a strategic asset.
+  links:
+    pdf: "/assets/papers/Transfer Learning for Marketing March 2026.pdf"
+    ssrn: ""
+
+- year: 2026
+  status: wp
+  title: "In-Store Coupons: A Large-Scale Field Experiment"
+  authors:
+    - "Sebastian Gabel"
+    - "Duncan Simester"
+    - "Artem Timoshenko"
+  venue: "Under review"
+  tldr: >-
+    A field experiment with 100+ brands shows when in-store coupons actually
+    drive incremental purchases — and provides evidence of store switching
+    behavior.
+  links:
+    pdf: "/assets/papers/In Store Coupons February 2026.pdf"
+    ssrn: ""
+
+# === Published ===
+
+- year: 2025
+  status: pub
+  title: "A Sample Size Calculation for Training and Certifying Targeting Policies"
+  authors:
+    - "Duncan Simester"
+    - "Artem Timoshenko"
+    - "Spyros I. Zoumpoulis"
+  venue: "Management Science, 71(11), 8995–9868"
+  tldr: >-
+    Marketers often run field experiments without knowing how much data they
+    need for designing targeting policies. This paper provides guidance for
+    the sample-size calculations for both training a policy and certifying it
+    before deployment.
+  links:
+    journal: "https://doi.org/10.1287/mnsc.2022.02947"
+    ssrn: ""
+
+- year: 2024
+  status: pub
+  title: "How Retailers Became Ad Platforms"
+  authors:
+    - "Sebastian Gabel"
+    - "Duncan Simester"
+    - "Artem Timoshenko"
+  venue: "Harvard Business Review (online), June 17, 2024"
+  tldr: >-
+    Retail media has become one of advertising's fastest-growing channels. We
+    explain why retailers turned into ad platforms — and discuss how brands
+    can navigate the resulting shifts in budgets and bargaining power.
+  links:
+    journal: "https://hbr.org/2024/06/how-retailers-became-ad-platforms"
+
+- year: 2023
+  status: pub
+  title: "Product Aesthetic Design: A Machine Learning Augmentation"
+  authors:
+    - "Alex Burnap"
+    - "John R. Hauser"
+    - "Artem Timoshenko"
+  venue: "Marketing Science, 42(6), 1029–1056"
+  tldr: >-
+    Generative AI approach that predicts the aesthetic appeal of physical
+    product designs and helps designers iterate toward more attractive
+    concepts. Done in collaboration with a large automotive brand.
+  links:
+    journal: "https://doi.org/10.1287/mksc.2022.1429"
+    ssrn: ""
+
+- year: 2022
+  status: pub
+  title: "Product Choice with Large Assortments: A Scalable Deep-Learning Model"
+  authors:
+    - "Sebastian Gabel"
+    - "Artem Timoshenko"
+  venue: "Management Science, 68(3), 1591–2376"
+  tldr: >-
+    Most choice models break when assortments get large. This one scales to
+    thousands of SKUs while capturing time-series dynamics for targeting and
+    promotion decisions.
+  links:
+    journal: "https://doi.org/10.1287/mnsc.2021.3969"
+    ssrn: ""
+
+- year: 2020
+  status: pub
+  title: "Efficiently Evaluating Targeting Policies: Improving Upon Champion vs. Challenger Experiments"
+  authors:
+    - "Duncan Simester"
+    - "Artem Timoshenko"
+    - "Spyros I. Zoumpoulis"
+  venue: "Management Science, 66(8), 3412–3424"
+  tldr: >-
+    Methods that improve statistical efficiency in standard
+    champion-vs-challenger tests for targeting policies.
+  links:
+    journal: "https://doi.org/10.1287/mnsc.2019.3379"
+    ssrn: ""
+
+- year: 2020
+  status: pub
+  title: "Soul and Machine (Learning)"
+  authors:
+    - "Davide Proserpio"
+    - "John R. Hauser"
+    - "Xiao Liu"
+    - "Tomomichi Amano"
+    - "Alex Burnap"
+    - "Tong Guo"
+    - "Dokyun (DK) Lee"
+    - "Randall Lewis"
+    - "Kanishka Misra"
+    - "Eric Schwarz"
+    - "Artem Timoshenko"
+    - "Lilei Xu"
+    - "Hema Yoganarasimhan"
+  venue: "Marketing Letters, 31(4), 393–404"
+  tldr: >-
+    A perspective on where machine learning genuinely advances marketing
+    research and where the harder questions remain.
+  links:
+    journal: "https://doi.org/10.1007/s11002-020-09538-4"
+
+- year: 2020
+  status: pub
+  title: "Targeting Prospective Customers: Robustness of Machine Learning Methods to Typical Data Challenges"
+  authors:
+    - "Duncan Simester"
+    - "Artem Timoshenko"
+    - "Spyros I. Zoumpoulis"
+  venue: "Management Science, 66(6), 2495–2522"
+  tldr: >-
+    We stress-test ML targeting methods against common empirical challenges
+    firms encounter, and show which approaches survive.
+  links:
+    journal: "https://doi.org/10.1287/mnsc.2019.3308"
+    ssrn: ""
+
+- year: 2019
+  status: pub
+  title: "Is Deep Learning a Game Changer for Marketing Analytics?"
+  authors:
+    - "Glen Urban"
+    - "Artem Timoshenko"
+    - "Paramveer Dhillon"
+    - "John R. Hauser"
+  venue: "MIT Sloan Management Review, 61(2)"
+  tldr: >-
+    Deep learning has changed parts of marketing analytics, not all of it.
+    We assess where it actually moves the needle for managers — and where the
+    hype outruns the value.
+  links:
+    journal: "https://sloanreview.mit.edu/article/is-deep-learning-a-game-changer-for-marketing-analytics/"
+
+- year: 2019
+  status: pub
+  title: "How Do Successful Scholars Get Their Best Research Ideas? An Exploration"
+  authors:
+    - "Cathy Cao"
+    - "Xinyu Cao"
+    - "Matthew Cashman"
+    - "Madhav Kumar"
+    - "Artem Timoshenko"
+    - "Jeremy Yang"
+    - "Shuyi Yu"
+    - "Jerry Zhang"
+    - "Yuting Zhu"
+    - "Birger Wernerfelt"
+  venue: "Marketing Letters, 30(3), 221–232"
+  tldr: >-
+    Where do the ideas behind successful marketing research papers actually
+    come from? An exploratory study based on interviews with leading scholars.
+  links:
+    journal: "https://doi.org/10.1007/s11002-019-09506-7"
+
+- year: 2019
+  status: pub
+  title: "Identifying Customer Needs from User-Generated Content"
+  authors:
+    - "Artem Timoshenko"
+    - "John R. Hauser"
+  venue: "Marketing Science, 38(1), 1–20"
+  tldr: >-
+    Machine-learning analysis of online reviews can match traditional
+    interview-based voice-of-the-customer research at a fraction of the cost.
+    The foundation for the LLM-based work above.
+  links:
+    journal: "https://doi.org/10.1287/mksc.2018.1123"
+    ssrn: ""

@@ -1,0 +1,32 @@
+{%- assign c = site.data.consulting -%}
+{%- assign p = site.data.profile -%}
+<section id="consulting" class="section">
+  {% include section-title.html title="Consulting & Industry Work" %}
+  <p class="consulting-lede">{{ c.lede }}</p>
+
+  <div class="consulting-grid">
+    <div>
+      <div class="column-label">Practice Areas</div>
+      {% for a in c.areas %}
+        <div class="consulting-item">
+          <div class="consulting-item-name">{{ a.name }}</div>
+          <div class="consulting-item-desc">{{ a.desc }}</div>
+        </div>
+      {% endfor %}
+    </div>
+    <div>
+      <div class="column-label">Engagement Formats</div>
+      {% for a in c.formats %}
+        <div class="consulting-item">
+          <div class="consulting-item-name">{{ a.name }}</div>
+          <div class="consulting-item-desc">{{ a.desc }}</div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="email-cta">
+    For inquiries, write directly to
+    <a class="email-cta-link" href="mailto:{{ p.email }}">{{ p.email }}</a>.
+  </div>
+</section>

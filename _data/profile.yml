@@ -1,0 +1,22 @@
+# Person bio block. Edit me freely.
+name: "Artem Timoshenko"
+role: "Associate Professor of Marketing"
+org: "Kellogg School of Management"
+org2: "Northwestern University"
+location: "Evanston, IL"
+year_start: 2019
+keywords_label: "Areas"
+eyebrow: "Business AI, Innovation, Customer Insights"
+pitch: >-
+  I study how emerging technologies — especially generative AI — are reshaping
+  innovation, customer engagement, and marketing strategy. I work with academic
+  collaborators and industry partners to turn methodological advances into
+  evidence-based business decisions.
+research_lede: >-
+  Recent work centers on using generative AI for customer insights and
+  developing targeting policies for performance marketing.
+email: "artem.timoshenko@northwestern.edu"
+linkedin: "https://www.linkedin.com/in/artem-timoshenko-47867b1a/"
+scholar: "https://scholar.google.com/citations?user=ebyna6wAAAAJ"
+cv: "/assets/cv/Timoshenko CV May 2026.pdf"
+photo: "/assets/img/Artem T Photo.jpeg"

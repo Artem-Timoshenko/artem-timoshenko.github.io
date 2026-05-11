@@ -1,0 +1,20 @@
+lede: >-
+  I work with marketing and product leaders on
+  AI adoption for consumer insights and targeted marketing —
+  translating recent research into evidence-based decisions.
+
+areas:
+  - name: "Customer analytics & targeting"
+    desc: "Segmentation, lifetime value, and ML-driven targeting — from data to deployment."
+  - name: "GenAI for new product development"
+    desc: "Using LLMs to accelerate concept generation, customer-need extraction, and qualitative research."
+  - name: "Retail media & ad platforms"
+    desc: "Strategy and measurement for brands navigating the new retailer-as-ad-platform landscape."
+
+formats:
+  - name: "Proof-of-concept studies"
+    desc: "Co-design pilots that bring academic rigor to high-stakes business decisions."
+  - name: "Board and advisory roles"
+    desc: "Ongoing strategic input — a standing channel between your team and an academic perspective."
+  - name: "Workshops & exec education"
+    desc: "Half- or full-day sessions for leadership teams on AI, customer analytics, and targeting."

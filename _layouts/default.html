@@ -1,27 +1,50 @@
 <!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ page.title | default: site.title }}</title>
 
-<html>
+  {%- seo -%}
+  {%- feed_meta -%}
 
-{% include head.html %}
+  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" />
 
-<body class="Site">
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300..700;1,8..60,300..700&display=swap"
+  />
 
-  <main class="Site-content">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+</head>
 
-    <div class="container">
+<body>
+  <div class="page" id="top">
 
-      {% include header.html %}
-
-      <div class="post-container">
-        {{ content }}
+    <header class="masthead">
+      <div class="masthead-inner">
+        <nav class="masthead-nav" aria-label="Primary">
+          <a href="#about">About</a>
+          <a href="#research">Research</a>
+          <a href="#consulting">Consulting</a>
+          <a href="#teaching">Teaching</a>
+          <a href="#honors">Honors</a>
+          <a href="{{ site.data.profile.cv | relative_url }}" target="_blank" rel="noopener">CV</a>
+        </nav>
       </div>
+    </header>
 
-    </div>
+    <main class="page-inner">
+      {{ content }}
+    </main>
 
-  </main>
+    <footer class="colophon">
+      <div>{{ site.data.profile.name }} · {{ site.data.profile.location }}</div>
+      <div>{{ site.data.profile.year_start }}–{{ site.time | date: '%Y' }}</div>
+    </footer>
 
-  {% include footer.html %}
-
+  </div>
 </body>
-
 </html>
