@@ -34,8 +34,7 @@
     - "Caio Waisman"
   venue: "Under review"
   tldr: >-
-    A new framework for estimating CATEs by focusing on the downstream
-    targeting decisions rather than statistical fit alone. We show that
+    A new framework for estimating CATEs by focusing on the profit-maximizing decisions rather than statistical fit alone. We show that
     standard "plug-in optimization" and "direct policy learning" are not
     competing paradigms, but limiting cases of the same optimization problem.
   links:
@@ -68,8 +67,7 @@
     - "Artem Timoshenko"
   venue: "Under review"
   tldr: >-
-    A Bayesian transfer-learning framework that lets firms reuse information
-    across marketing experiments to improve targeting policies, turning
+    Firms can reuse information across marketing experiments to improve targeting policies, turning
     experimental databases into a strategic asset.
   links:
     pdf: "/assets/papers/Transfer Learning for Marketing March 2026.pdf"
@@ -77,18 +75,18 @@
 
 - year: 2026
   status: wp
-  title: "In-Store Coupons: A Large-Scale Field Experiment"
+  title: "Store-Entry Coupons: A Large-Scale Field Experiment"
   authors:
     - "Sebastian Gabel"
     - "Duncan Simester"
     - "Artem Timoshenko"
   venue: "Under review"
   tldr: >-
-    A field experiment with 100+ brands shows when in-store coupons actually
+    A field experiment with 100+ CPG brands shows when store-entry coupons actually
     drive incremental purchases — and provides evidence of store switching
     behavior.
   links:
-    pdf: "/assets/papers/In Store Coupons February 2026.pdf"
+    pdf: "/assets/papers/In Store Coupons October 2026.pdf"
     ssrn: ""
 
 # === Published ===
